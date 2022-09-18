@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-35,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Infection_up"
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Infection_Right"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Infection_left"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Infection_down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Infection_bit",
+	"position": [
+		100,
+		360
+	],
+	"healthicon": "fake8bit",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		155,
+		180
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "8bit idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "8bit up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "8bit right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "8bit left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "8bit down note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/8bit",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "8bit",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		155,
+		180
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}
